@@ -1,13 +1,1 @@
-<!DOCTYPE html>
-<header lang="en">
-    <meta charset="utf-8"> 
-    <title>Hi</title>
-</header>
-<body>
-    <p>paragraph style1</p>
-    <p>paragraph style2</p>
-    <h1>Rules</h1>
-    <blockquote>there are none :P <ul><hr>srsly <br><em>dumabass<strong>idiot</strong></em></br></hr></ul></blockquote>
 
-</body>
-</html>
